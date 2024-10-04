@@ -279,7 +279,7 @@ class Arabic
     private $arSeparators = array('.',"\n",'،','؛','(','[','{',')',']','}',',',';');
 
     /** @var array<string> */
-    private $arCommonChars = array('ة','ه','ي','ن','و','ت','ل','ا','س','م',
+    private $arCommonChars = array('ة','ه','ی','ن','و','ت','ل','ا','س','م', 'گ', 'چ', 'پ', 'ژ', 
                                    'e', 't', 'a', 'o', 'i', 'n', 's');
 
     /** @var array<string> */
